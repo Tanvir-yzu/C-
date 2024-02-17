@@ -17,9 +17,9 @@ int main (){
   bool power = true;
   string name = "multyple";
   string day = "friday";
-  double pi = 3.1416;
+  const double PI = 3.1416;
   double radius= 10;
-  double cirumference = 2 * pi * radius;
+  double cirumference = 2 * PI * radius;
   
 
 
